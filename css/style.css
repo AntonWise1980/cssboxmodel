@@ -6,6 +6,7 @@ resetlemek için kullanıyoruz. */
     box-sizing: border-box;
 }
 
+/* ben body de segoe kullandım. */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
